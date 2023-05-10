@@ -1,0 +1,74 @@
+{
+    "storymap": {
+        "attribution": "", 
+        "call_to_action": true, 
+        "call_to_action_text": "", 
+        "map_as_image": true, 
+        "map_subdomains": "", 
+        "map_type": "osm:standard", 
+        "slides": [
+            {
+            "background": {
+                "color": "#000000", 
+                "opacity": 100
+            }, 
+            "date": "", 
+            "location": {
+                "line": true
+            }, 
+            "media": {
+                "caption": "BarCamp is all about <a href=\"https://en.wikipedia.org/wiki/Open_source\">open source</a>.", 
+                "credit": "Ioerror., CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons", 
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Barcamp2005-ioerror-01.jpg"
+            }, 
+            "text": {
+                "headline": "This is a nonce map", 
+                "text": "I'm happy to <em>anno(u)nce</em> that this is my Nonce Map! <a href=\"https://www.etymonline.com/search?q=hooray\" target=\"_blank\" rel=\"\">Hooray!</a>"
+            }, 
+            "type": "overview"
+        }, 
+        {
+            "date": "", 
+            "location": {
+                "icon": "https://cdl-geneseo.github.io/storymap-geneseo/images/red.png", 
+                "iconSize": [30.308943089430894, 48], 
+                "lat": 42.795896, 
+                "line": true, 
+                "lon": -77.816947, "use_custom_marker": true, "zoom": 12
+            }, 
+            "media": {
+                "caption": "<a href=\"https://en.wikipedia.org/wiki/State_University_of_New_York_at_Geneseo\">Geneseo Normal School</a> Front View Geneseo (NY) 1904", 
+                "credit": "<a href=\"https://commons.wikimedia.org/wiki/File:Geneseo_Normal_School.jpg\">See page for author</a>, Public domain, via Wikimedia Commons", 
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Geneseo_Normal_School.jpg"
+            }, 
+            "text": {
+                "headline": "Geneseo, NY", 
+                "text": "Hey, <a href=\"https://geneseo.edu\">SUNY Geneseo</a> is here!"
+            }
+        }, 
+        {
+            "date": "", 
+            "location": {
+                "icon": "https://cdl-geneseo.github.io/storymap-geneseo/images/yellow.png", 
+                "iconSize": [30.308943089430894, 48], 
+                "lat": 41.452521, 
+                "line": true, 
+                "lon": -90.154843, 
+                "use_custom_marker": true, 
+                "zoom": 12
+            }, 
+            "media": {
+                "caption": "Downtown Geneseo, IL. Kind of reminds you of <a href=\"https://geneseo.edu\">Geneseo, New York.</a>.", 
+                "credit": "<a href=\"https://commons.wikimedia.org/wiki/File:City_of_Geneseo,_Illinois,_downton_circa_2015.jpg\">Qgdftxum</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons", 
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/City_of_Geneseo%2C_Illinois%2C_downton_circa_2015.jpg"
+            }, 
+            "text": {
+                "headline": 
+                "Geneseo, IL", 
+                "text": "There's also a Geneseo in <a href=\"https://en.wikipedia.org/wiki/Illinois\">Illinois!</a>"
+            }
+        }
+    ], 
+    "zoomify": false 
+    }
+}
