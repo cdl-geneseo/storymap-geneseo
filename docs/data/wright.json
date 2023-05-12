@@ -37,7 +37,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
-            "iconSize":"[50,50]"
+            "iconSize":[50, 50]
         },
         "media":{
             "caption":"View from Hook Mountain in Hook Mountain State Park, overlooking the Hudson River, in November 2015",
@@ -58,7 +58,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
-            "iconSize":"[50,50]"
+            "iconSize":[50, 50]
         },
         "media":{
             "caption":"Geneseo Normal School Front View Geneseo (NY) 1904",
@@ -79,7 +79,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
-            "iconSize":"[50,50]"
+            "iconSize":[50, 50]
         },
         "media":{
             "caption":"Soldier's Monument, Batavia, N. Y., by Tichnor Brothers, c. 1930-1945, from the Digital Commonwealth",
