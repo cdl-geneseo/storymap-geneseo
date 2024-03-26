@@ -26,8 +26,7 @@
             "text": "New York State School Districts labelled Predominantly BIPOC, Predominantly White, and Integrated"
         }, 
         "type": "overview"
-    }, 
-
+    },
     {
         "date":"\"\"",
         "location":{
@@ -37,7 +36,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
-            "iconSize":[50, 50]
+            "iconSize":"[50,50]"
         },
         "media":{
             "caption":"View from Hook Mountain in Hook Mountain State Park, overlooking the Hudson River, in November 2015",
@@ -45,8 +44,8 @@
             "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5f\/Hook_Mountain_Nov2015.jpg"
         },
         "text":{
-            "headline":"EAST RAMAPO CENTRAL SCHOOL DISTRICT (SPRING VALLEY)",
-            "text":"The <a href='http:\/\/www.ercsd.org'>East Ramapo Central School District (Spring Valley)<\/a> in Rockland county had 611 students enrolled in the 2017 cohort. It can be classified as a predominantly BIPOC school district (96.2% BIPOC, 3.8% white). The district is in the 'Urban-Suburban High Needs' Needs to Resource Category (75.9% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 28.5% English Language Learners, 18.7% students with disabilities, and 9.2% homeless. The graduation rate within 5 years for the 2017 cohort was 80% with 23% of students receiving an advanced regents. The dropout percentage was 13%."
+            "headline":"Ramapo High School",
+            "text":"Ramapo High School in Rockland county had 294 students enrolled in the 2017 cohort. It can be classified as >80% Black & Hispanic school district (98.3% BIPOC, 90.5% Black & Hispanic, 1.7% White). The district is in the 'Urban-Suburban High Needs' Needs to Resource Category (73.8% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 30.3% English Language Learners, 17% students with disabilities, and 7.8% homeless. The graduation rate within 5 years for the 2017 cohort was 86% with 19% of students receiving an advanced regents. The dropout percentage was 10%."
         }
     },
     {
@@ -58,7 +57,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
-            "iconSize":[50, 50]
+            "iconSize":"[50,50]"
         },
         "media":{
             "caption":"Geneseo Normal School Front View Geneseo (NY) 1904",
@@ -66,29 +65,176 @@
             "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2e\/Geneseo_Normal_School.jpg"
         },
         "text":{
-            "headline":"GENESEO CENTRAL SCHOOL DISTRICT",
-            "text":"The <a href='http:\/\/www.geneseocsd.org'>Geneseo Central School District<\/a> in Livingston county had 57 students enrolled in the 2017 cohort. It can be classified as a predominantly white school district (12.3% BIPOC, 87.7% white). The district is in the 'Average Needs' Needs to Resource Category (31.6% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 1.8% English Language Learners, 14% students with disabilities, and 1.8% homeless. The graduation rate within 5 years for the 2017 cohort was 89% with 63% of students receiving an advanced regents. The dropout percentage was 7%."
+            "headline":"Geneseo Middle School High School",
+            "text":"Geneseo Middle School High School in Livingston county had 51 students enrolled in the 2017 cohort. It can be classified as >80% White school district (9.8% BIPOC, 9.8% Black & Hispanic, 90.2% White). The district is in the 'Average Needs' Needs to Resource Category (33.3% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 2% English Language Learners, 7.8% students with disabilities, and 0% homeless. The graduation rate within 5 years for the 2017 cohort was 98% with 61% of students receiving an advanced regents. The dropout percentage was 2%."
         }
     },
     {
         "date":"\"\"",
         "location":{
-            "lat":43.012641,
+            "lat":43.1362068,
             "line":true,
-            "lon":-78.179763,
+            "lon":-77.470975,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
+            "iconSize":"[50,50]"
+        },
+        "media":{
+            "caption":"Penfield Senior High School ",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:PenfieldSeniorHighSchoolPenfieldNewYork.jpg\">DanielPenfield<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\">CC BY-SA 4.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8e\/PenfieldSeniorHighSchoolPenfieldNewYork.jpg"
+        },
+        "text":{
+            "headline":"Penfield Senior High School",
+            "text":"Penfield Senior High School in Monroe county had 330 students enrolled in the 2017 cohort. It can be classified as >80% White school district (18.2% BIPOC, 10.9% Black & Hispanic, 81.8% White). The district is in the 'Average Needs' Needs to Resource Category (21.5% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 0.6% English Language Learners, 12.1% students with disabilities, and 0.6% homeless. The graduation rate within 5 years for the 2017 cohort was 98% with 78% of students receiving an advanced regents. The dropout percentage was 1%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":43.1945954,
+            "line":true,
+            "lon":-77.634437,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
+            "iconSize":"[50,50]"
+        },
+        "media":{
+            "caption":"James Monroe Upper School",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:JamesMonroeHighSchoolMainEntrance.JPG\">DanielPenfield<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\">CC BY-SA 3.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/cc\/JamesMonroeHighSchoolMainEntrance.JPG"
+        },
+        "text":{
+            "headline":"James Monroe Upper School",
+            "text":"James Monroe Upper School in Monroe county had 158 students enrolled in the 2017 cohort. It can be classified as >80% Black & Hispanic school district (96.2% BIPOC, 96.2% Black & Hispanic, 3.8% White). The district is in the 'Buffalo  Rochester  Yonkers  Syracuse' Needs to Resource Category (91.8% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 42.4% English Language Learners, 28.5% students with disabilities, and 1.9% homeless. The graduation rate within 5 years for the 2017 cohort was 74% with 15% of students receiving an advanced regents. The dropout percentage was 22%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":43.123598,
+            "line":true,
+            "lon":-77.5663,
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
-            "iconSize":[50, 50]
+            "iconSize":"[50,50]"
         },
         "media":{
-            "caption":"Soldier's Monument, Batavia, N. Y., by Tichnor Brothers, c. 1930-1945, from the Digital Commonwealth",
-            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Soldier%27s_Monument,_Batavia,_N._Y.,_by_Tichnor_Brothers,_c._1930-1945,_from_the_Digital_Commonwealth_-_1_commonwealth_xg94hr58x.jpg\">Tichnor Brothers<\/a>, Public domain, via Wikimedia Commons",
-            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/65\/Soldier%27s_Monument%2C_Batavia%2C_N._Y.%2C_by_Tichnor_Brothers%2C_c._1930-1945%2C_from_the_Digital_Commonwealth_-_1_commonwealth_xg94hr58x.jpg"
+            "caption":"Brighton High School New York Front",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:BrightonHighSchoolNewYorkFront.jpg\">DanielPenfield<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\">CC BY-SA 4.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/20\/BrightonHighSchoolNewYorkFront.jpg"
         },
         "text":{
-            "headline":"BATAVIA CITY SCHOOL DISTRICT",
-            "text":"The <a href='http:\/\/www.bataviacsd.org'>Batavia City School District<\/a> in Genesee county had 163 students enrolled in the 2017 cohort. It can be classified as an integrated school district (29.4% BIPOC, 70.6% white). The district is in the 'Rural High Needs' Needs to Resource Category (43.6% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 1.2% English Language Learners, 16% students with disabilities, and 1.2% homeless. The graduation rate within 5 years for the 2017 cohort was 96% with 45% of students receiving an advanced regents. The dropout percentage was 2%."
+            "headline":"Brighton High School",
+            "text":"Brighton High School in Monroe county had 278 students enrolled in the 2017 cohort. It can be classified as Integrated school district (32.7% BIPOC, 14.7% Black & Hispanic, 67.3% White). The district is in the 'Low Needs' Needs to Resource Category (23.4% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 0.4% English Language Learners, 9.4% students with disabilities, and 0.7% homeless. The graduation rate within 5 years for the 2017 cohort was 97% with 76% of students receiving an advanced regents. The dropout percentage was 1%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":42.9664609,
+            "line":true,
+            "lon":-78.731724,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
+            "iconSize":"[50,50]"
+        },
+        "media":{
+            "caption":"Williamsville South High School",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:20090412_Williamsville_South_High_School.JPG\">TonyTheTiger<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\">CC BY-SA 3.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9a\/20090412_Williamsville_South_High_School.JPG"
+        },
+        "text":{
+            "headline":"Williamsville South High School",
+            "text":"Williamsville South High School in Erie county had 228 students enrolled in the 2017 cohort. It can be classified as >80% White school district (19.3% BIPOC, 7% Black & Hispanic, 80.7% White). The district is in the 'Average Needs' Needs to Resource Category (22.8% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 0.4% English Language Learners, 8.8% students with disabilities, and 0% homeless. The graduation rate within 5 years for the 2017 cohort was 95% with 71% of students receiving an advanced regents. The dropout percentage was 4%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":42.907762,
+            "line":true,
+            "lon":-78.836437,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
+            "iconSize":"[50,50]"
+        },
+        "media":{
+            "caption":"East High School, Buffalo, New York",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:East_High_School,_Buffalo,_New_York_-_20211129.jpg\">Andre Carrotflower<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\">CC BY-SA 4.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/67\/East_High_School%2C_Buffalo%2C_New_York_-_20211129.jpg"
+        },
+        "text":{
+            "headline":"East Community School",
+            "text":"East Community School in Erie county had 93 students enrolled in the 2017 cohort. It can be classified as >80% Black & Hispanic school district (94.6% BIPOC, 88.2% Black & Hispanic, 5.4% White). The district is in the 'Buffalo  Rochester  Yonkers  Syracuse' Needs to Resource Category (80.6% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 9.7% English Language Learners, 18.3% students with disabilities, and 4.3% homeless. The graduation rate within 5 years for the 2017 cohort was 73% with 0% of students receiving an advanced regents. The dropout percentage was 20%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":42.8529812,
+            "line":true,
+            "lon":-78.824315,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
+            "iconSize":"[50,50]"
+        },
+        "media":{
+            "caption":"South Park High School",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:SouthParkHSBuffalo.jpg\">D-Day<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\">CC BY-SA 3.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/47\/SouthParkHSBuffalo.jpg"
+        },
+        "text":{
+            "headline":"South Park High School",
+            "text":"South Park High School in Erie county had 215 students enrolled in the 2017 cohort. It can be classified as Integrated school district (65.6% BIPOC, 60.9% Black & Hispanic, 34.4% White). The district is in the 'Buffalo  Rochester  Yonkers  Syracuse' Needs to Resource Category (74.9% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 6.5% English Language Learners, 22.8% students with disabilities, and 0.5% homeless. The graduation rate within 5 years for the 2017 cohort was 81% with 9% of students receiving an advanced regents. The dropout percentage was 13%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":40.5803462,
+            "line":true,
+            "lon":-73.935055,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
+            "iconSize":"[50,50]"
+        },
+        "media":{
+            "caption":"Leon M. Goldstein High School for the sciences",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:LMGHS_jeh.jpg\">Jim.henderson<\/a>, Public domain, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a5\/LMGHS_jeh.jpg"
+        },
+        "text":{
+            "headline":"Leon M. Goldstein High School ",
+            "text":"Leon M Goldstein High School For The Sci in Kings county had 239 students enrolled in the 2017 cohort. It can be classified as Integrated school district (41% BIPOC, 14.6% Black & Hispanic, 59% White). The district is in the 'NYC' Needs to Resource Category (46.9% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 0.4% English Language Learners, 17.6% students with disabilities, and 0.4% homeless. The graduation rate within 5 years for the 2017 cohort was 97% with 84% of students receiving an advanced regents. The dropout percentage was 1%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":40.6695111,
+            "line":true,
+            "lon":-73.979013,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
+            "iconSize":"[50,50]"
+        },
+        "media":{
+            "caption":"Millennium Brooklyn High School",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:John_Jay_Educational_Campus.jpg\">Beyond My Ken<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\">CC BY-SA 4.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f6\/John_Jay_Educational_Campus.jpg"
+        },
+        "text":{
+            "headline":"Millennium Brooklyn High School ",
+            "text":"Millennium Brooklyn High School in Kings county had 173 students enrolled in the 2017 cohort. It can be classified as Integrated school district (48% BIPOC, 33.5% Black & Hispanic, 52% White). The district is in the 'NYC' Needs to Resource Category (38.7% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 0% English Language Learners, 17.9% students with disabilities, and 0% homeless. The graduation rate within 5 years for the 2017 cohort was 99% with 89% of students receiving an advanced regents. The dropout percentage was 1%."
         }
     }
 ],
