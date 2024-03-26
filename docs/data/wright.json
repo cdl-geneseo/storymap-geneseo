@@ -36,7 +36,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
-            "iconSize":[50,50]
+            "iconSize":[30,30]
         },
         "media":{
             "caption":"View from Hook Mountain in Hook Mountain State Park, overlooking the Hudson River, in November 2015",
@@ -57,7 +57,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
-            "iconSize":[50,50]
+            "iconSize":[30,30]
         },
         "media":{
             "caption":"Geneseo Normal School Front View Geneseo (NY) 1904",
@@ -78,7 +78,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
-            "iconSize":[50,50]
+            "iconSize":[30,30]
         },
         "media":{
             "caption":"Penfield Senior High School ",
@@ -99,7 +99,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
-            "iconSize":[50,50]
+            "iconSize":[30,30]
         },
         "media":{
             "caption":"James Monroe Upper School",
@@ -120,7 +120,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
-            "iconSize":[50,50]
+            "iconSize":[30,30]
         },
         "media":{
             "caption":"Brighton High School New York Front",
@@ -141,7 +141,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
-            "iconSize":[50,50]
+            "iconSize":[30,30]
         },
         "media":{
             "caption":"Williamsville South High School",
@@ -162,7 +162,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
-            "iconSize":[50,50]
+            "iconSize":[30,30]
         },
         "media":{
             "caption":"East High School, Buffalo, New York",
@@ -183,7 +183,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
-            "iconSize":[50,50]
+            "iconSize":[30,30]
         },
         "media":{
             "caption":"South Park High School",
@@ -204,7 +204,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
-            "iconSize":[50,50]
+            "iconSize":[30,30]
         },
         "media":{
             "caption":"Leon M. Goldstein High School for the sciences",
@@ -225,7 +225,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
-            "iconSize":[50,50]
+            "iconSize":[30,30]
         },
         "media":{
             "caption":"Millennium Brooklyn High School",
