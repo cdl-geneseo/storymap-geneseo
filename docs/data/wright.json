@@ -30,55 +30,13 @@
     {
         "date":"\"\"",
         "location":{
-            "lat":41.135681,
-            "line":true,
-            "lon":-74.062923,
-            "zoom":12,
-            "use_custom_marker":true,
-            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
-            "iconSize":[30,30]
-        },
-        "media":{
-            "caption":"View from Hook Mountain in Hook Mountain State Park, overlooking the Hudson River, in November 2015",
-            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Hook_Mountain_Nov2015.jpg\">Mark Wyman<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by\/2.0\">CC BY 2.0<\/a>, via Wikimedia Commons",
-            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5f\/Hook_Mountain_Nov2015.jpg"
-        },
-        "text":{
-            "headline":"Ramapo High School",
-            "text":"Ramapo High School in Rockland county had 294 students enrolled in the 2017 cohort. It can be classified as >80% Black & Hispanic school district (98.3% BIPOC, 90.5% Black & Hispanic, 1.7% White). The district is in the 'Urban-Suburban High Needs' Needs to Resource Category (73.8% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 30.3% English Language Learners, 17% students with disabilities, and 7.8% homeless. The graduation rate within 5 years for the 2017 cohort was 86% with 19% of students receiving an advanced regents. The dropout percentage was 10%."
-        }
-    },
-    {
-        "date":"\"\"",
-        "location":{
-            "lat":42.8127229,
-            "line":true,
-            "lon":-77.808847,
-            "zoom":12,
-            "use_custom_marker":true,
-            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
-            "iconSize":[30,30]
-        },
-        "media":{
-            "caption":"Geneseo Normal School Front View Geneseo (NY) 1904",
-            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Geneseo_Normal_School.jpg\">See page for author<\/a>, Public domain, via Wikimedia Commons",
-            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2e\/Geneseo_Normal_School.jpg"
-        },
-        "text":{
-            "headline":"Geneseo Middle School High School",
-            "text":"Geneseo Middle School High School in Livingston county had 51 students enrolled in the 2017 cohort. It can be classified as >80% White school district (9.8% BIPOC, 9.8% Black & Hispanic, 90.2% White). The district is in the 'Average Needs' Needs to Resource Category (33.3% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 2% English Language Learners, 7.8% students with disabilities, and 0% homeless. The graduation rate within 5 years for the 2017 cohort was 98% with 61% of students receiving an advanced regents. The dropout percentage was 2%."
-        }
-    },
-    {
-        "date":"\"\"",
-        "location":{
             "lat":43.1362068,
             "line":true,
             "lon":-77.470975,
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
-            "iconSize":[30,30]
+            "iconSize":"[30,30]"
         },
         "media":{
             "caption":"Penfield Senior High School ",
@@ -99,7 +57,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
-            "iconSize":[30,30]
+            "iconSize":"[30,30]"
         },
         "media":{
             "caption":"James Monroe Upper School",
@@ -120,7 +78,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
-            "iconSize":[30,30]
+            "iconSize":"[30,30]"
         },
         "media":{
             "caption":"Brighton High School New York Front",
@@ -135,13 +93,34 @@
     {
         "date":"\"\"",
         "location":{
+            "lat":42.8127229,
+            "line":true,
+            "lon":-77.808847,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"Geneseo Normal School Front View Geneseo (NY) 1904",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Geneseo_Normal_School.jpg\">See page for author<\/a>, Public domain, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2e\/Geneseo_Normal_School.jpg"
+        },
+        "text":{
+            "headline":"Geneseo Middle School High School",
+            "text":"Geneseo Middle School High School in Livingston county had 51 students enrolled in the 2017 cohort. It can be classified as >80% White school district (9.8% BIPOC, 9.8% Black & Hispanic, 90.2% White). The district is in the 'Average Needs' Needs to Resource Category (33.3% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 2% English Language Learners, 7.8% students with disabilities, and 0% homeless. The graduation rate within 5 years for the 2017 cohort was 98% with 61% of students receiving an advanced regents. The dropout percentage was 2%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
             "lat":42.9664609,
             "line":true,
             "lon":-78.731724,
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
-            "iconSize":[30,30]
+            "iconSize":"[30,30]"
         },
         "media":{
             "caption":"Williamsville South High School",
@@ -162,7 +141,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
-            "iconSize":[30,30]
+            "iconSize":"[30,30]"
         },
         "media":{
             "caption":"East High School, Buffalo, New York",
@@ -183,7 +162,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
-            "iconSize":[30,30]
+            "iconSize":"[30,30]"
         },
         "media":{
             "caption":"South Park High School",
@@ -204,7 +183,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
-            "iconSize":[30,30]
+            "iconSize":"[30,30]"
         },
         "media":{
             "caption":"Leon M. Goldstein High School for the sciences",
@@ -225,7 +204,7 @@
             "zoom":12,
             "use_custom_marker":true,
             "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
-            "iconSize":[30,30]
+            "iconSize":"[30,30]"
         },
         "media":{
             "caption":"Millennium Brooklyn High School",
@@ -235,6 +214,300 @@
         "text":{
             "headline":"Millennium Brooklyn High School ",
             "text":"Millennium Brooklyn High School in Kings county had 173 students enrolled in the 2017 cohort. It can be classified as Integrated school district (48% BIPOC, 33.5% Black & Hispanic, 52% White). The district is in the 'NYC' Needs to Resource Category (38.7% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 0% English Language Learners, 17.9% students with disabilities, and 0% homeless. The graduation rate within 5 years for the 2017 cohort was 99% with 89% of students receiving an advanced regents. The dropout percentage was 1%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":40.609963,
+            "line":true,
+            "lon":-73.947937,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"James Madison High School ",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Map_of_New_York_highlighting_Kings_County.svg\">David Benbennick<\/a>, Public domain, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/36\/Map_of_New_York_highlighting_Kings_County.svg"
+        },
+        "text":{
+            "headline":"James Madison High School ",
+            "text":"James Madison High School in Kings county had 991 students enrolled in the 2017 cohort. It can be classified as Integrated school district (52.6% BIPOC, 30.6% Black & Hispanic, 47.4% White). The district is in the 'NYC' Needs to Resource Category (75.7% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 12.7% English Language Learners, 13.2% students with disabilities, and 6.7% homeless. The graduation rate within 5 years for the 2017 cohort was 94% with 61% of students receiving an advanced regents. The dropout percentage was 4%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":40.6513538,
+            "line":true,
+            "lon":-73.524813,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"John F Kennedy Highschool",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Calhoun_High_School,_Merrick,_Long_Island,_New_York_May_31,_2022.jpg\">AITFFan1<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\">CC BY-SA 4.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a1\/Calhoun_High_School%2C_Merrick%2C_Long_Island%2C_New_York_May_31%2C_2022.jpg"
+        },
+        "text":{
+            "headline":"John F Kennedy Highschool",
+            "text":"John F Kennedy High School in Nassau county had 285 students enrolled in the 2017 cohort. It can be classified as >80% White school district (19.3% BIPOC, 12.6% Black & Hispanic, 80.7% White). The district is in the 'Low Needs' Needs to Resource Category (12.3% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 0% English Language Learners, 10.5% students with disabilities, and 0% homeless. The graduation rate within 5 years for the 2017 cohort was 99% with 82% of students receiving an advanced regents. The dropout percentage was 1%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":40.7330821,
+            "line":true,
+            "lon":-73.652931,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"Garden City High School",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Garden_City_Village_Hall,_Garden_City,_Long_Island,_New_York_September_18,_2021_A.jpg\">AITFFan1<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\">CC BY-SA 4.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/72\/Garden_City_Village_Hall%2C_Garden_City%2C_Long_Island%2C_New_York_September_18%2C_2021_A.jpg"
+        },
+        "text":{
+            "headline":"Garden City High School",
+            "text":"Garden City High School in Nassau county had 312 students enrolled in the 2017 cohort. It can be classified as >80% White school district (14.4% BIPOC, 9% Black & Hispanic, 85.6% White). The district is in the 'Low Needs' Needs to Resource Category (5.4% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 0.3% English Language Learners, 8.7% students with disabilities, and 0.3% homeless. The graduation rate within 5 years for the 2017 cohort was 99% with 92% of students receiving an advanced regents. The dropout percentage was 0%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":40.6966157,
+            "line":true,
+            "lon":-73.632476,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"Hempstead High School ",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Long_Island_City_New_York_October_2016.jpg\">King of Hearts<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\">CC BY-SA 4.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e4\/Long_Island_City_New_York_October_2016.jpg"
+        },
+        "text":{
+            "headline":"Hempstead High School ",
+            "text":"Hempstead High School in Nassau county had 438 students enrolled in the 2017 cohort. It can be classified as >80% Black & Hispanic school district (100% BIPOC, 97.3% Black & Hispanic, 0% White). The district is in the 'Urban-Suburban High Needs' Needs to Resource Category (67.1% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 32.6% English Language Learners, 9.6% students with disabilities, and 2.1% homeless. The graduation rate within 5 years for the 2017 cohort was 79% with 17% of students receiving an advanced regents. The dropout percentage was 4%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":42.6425793,
+            "line":true,
+            "lon":-73.77095,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"Green Tech High School Charter School",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:New_York_State_Normal_School_1909.jpg\">Haines Photo Co.<\/a>, Public domain, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7f\/New_York_State_Normal_School_1909.jpg"
+        },
+        "text":{
+            "headline":"Green Tech High School Charter School",
+            "text":"Green Tech High Charter School in Albany county had 67 students enrolled in the 2017 cohort. It can be classified as >80% Black & Hispanic school district (97% BIPOC, 85.1% Black & Hispanic, 3% White). The district is in the 'Charters' Needs to Resource Category (65.7% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 0% English Language Learners, 3% students with disabilities, and 3% homeless. The graduation rate within 5 years for the 2017 cohort was 90% with 13% of students receiving an advanced regents. The dropout percentage was 3%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":42.8146593,
+            "line":true,
+            "lon":-73.910737,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"Schenectady High School",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Nott_SE_Landscape.JPG\">UpstateNYer<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\">CC BY-SA 3.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/29\/Nott_SE_Landscape.JPG"
+        },
+        "text":{
+            "headline":"Schenectady High School",
+            "text":"Schenectady High School in Schenectady county had 702 students enrolled in the 2017 cohort. It can be classified as Integrated school district (74.6% BIPOC, 49.4% Black & Hispanic, 25.4% White). The district is in the 'Urban-Suburban High Needs' Needs to Resource Category (68.8% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 5% English Language Learners, 19.5% students with disabilities, and 4.4% homeless. The graduation rate within 5 years for the 2017 cohort was 81% with 15% of students receiving an advanced regents. The dropout percentage was 10%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":44.8864009,
+            "line":true,
+            "lon":-73.433074,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"Chazy Central Rural Junior Senior High School",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Stranger%27s_guide_through_the_city_of_Montreal,_with_engravings_of_the_most_prominent_public_buildings_and_churches_in_the_city,_the_Victoria_Bridge_etc._together_with_railroads_and_steamboat_routes,_(14761027185).jpg\">Internet Archive Book Images<\/a>, No restrictions, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/49\/Stranger%27s_guide_through_the_city_of_Montreal%2C_with_engravings_of_the_most_prominent_public_buildings_and_churches_in_the_city%2C_the_Victoria_Bridge_etc._together_with_railroads_and_steamboat_routes%2C_%2814761027185%29.jpg"
+        },
+        "text":{
+            "headline":"Chazy Central Rural Junior Senior High School",
+            "text":"Chazy Central Rural Junior-Senior High S in Clinton county had 29 students enrolled in the 2017 cohort. It can be classified as >80% White school district (3.4% BIPOC, 0% Black & Hispanic, 96.6% White). The district is in the 'Average Needs' Needs to Resource Category (13.8% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 0% English Language Learners, 10.3% students with disabilities, and 0% homeless. The graduation rate within 5 years for the 2017 cohort was 100% with 72% of students receiving an advanced regents. The dropout percentage was 0%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":41.135681,
+            "line":true,
+            "lon":-74.062923,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"View from Hook Mountain in Hook Mountain State Park, overlooking the Hudson River, in November 2015",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Hook_Mountain_Nov2015.jpg\">Mark Wyman<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by\/2.0\">CC BY 2.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5f\/Hook_Mountain_Nov2015.jpg"
+        },
+        "text":{
+            "headline":"Ramapo High School",
+            "text":"Ramapo High School in Rockland county had 294 students enrolled in the 2017 cohort. It can be classified as >80% Black & Hispanic school district (98.3% BIPOC, 90.5% Black & Hispanic, 1.7% White). The district is in the 'Urban-Suburban High Needs' Needs to Resource Category (73.8% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 30.3% English Language Learners, 17% students with disabilities, and 7.8% homeless. The graduation rate within 5 years for the 2017 cohort was 86% with 19% of students receiving an advanced regents. The dropout percentage was 10%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":41.1506427,
+            "line":true,
+            "lon":-73.970047,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"Clarkstown North High School ",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Town_of_Clarkstown,_Rockland_County.png\">No machine-readable author provided. Salvo46 assumed (based on copyright claims).<\/a>, <a href=\"http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\">CC BY-SA 3.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c4\/Town_of_Clarkstown%2C_Rockland_County.png"
+        },
+        "text":{
+            "headline":"Clarkstown North High School ",
+            "text":"Clarkstown North Senior High School in Rockland county had 324 students enrolled in the 2017 cohort. It can be classified as Integrated school district (37.7% BIPOC, 24.7% Black & Hispanic, 62.3% White). The district is in the 'Low Needs' Needs to Resource Category (20.7% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 2.8% English Language Learners, 15.1% students with disabilities, and 0.6% homeless. The graduation rate within 5 years for the 2017 cohort was 98% with 64% of students receiving an advanced regents. The dropout percentage was 2%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":41.0611979,
+            "line":true,
+            "lon":-74.009239,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"Pearl River High School ",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Rockland_County_New_York_incorporated_and_unincorporated_areas_Pearl_River_highlighted.svg\">Rcsprinter123<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by\/3.0\">CC BY 3.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/aa\/Rockland_County_New_York_incorporated_and_unincorporated_areas_Pearl_River_highlighted.svg"
+        },
+        "text":{
+            "headline":"Pearl River High School ",
+            "text":"Pearl River High School in Rockland county had 202 students enrolled in the 2017 cohort. It can be classified as Integrated school district (20.3% BIPOC, 12.4% Black & Hispanic, 79.7% White). The district is in the 'Low Needs' Needs to Resource Category (13.4% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 2.5% English Language Learners, 11.4% students with disabilities, and 1% homeless. The graduation rate within 5 years for the 2017 cohort was 100% with 81% of students receiving an advanced regents. The dropout percentage was 0%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":41.1071456,
+            "line":true,
+            "lon":-74.05584,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"Spring Valley High School",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Spring_Valley_High_School_entrance,_Feb_2017.jpg\">Sunnya343<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\">CC BY-SA 4.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d6\/Spring_Valley_High_School_entrance%2C_Feb_2017.jpg"
+        },
+        "text":{
+            "headline":"Spring Valley High School",
+            "text":"Spring Valley High School in Rockland county had 291 students enrolled in the 2017 cohort. It can be classified as >80% Black & Hispanic school district (98.3% BIPOC, 95.5% Black & Hispanic, 1.7% White). The district is in the 'Urban-Suburban High Needs' Needs to Resource Category (82.8% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 28.2% English Language Learners, 15.8% students with disabilities, and 11% homeless. The graduation rate within 5 years for the 2017 cohort was 77% with 19% of students receiving an advanced regents. The dropout percentage was 16%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":40.9935533,
+            "line":true,
+            "lon":-73.875069,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pw.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"Hasting High School",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:HastingsHighSchoolFrontEntranceLandscape.jpg\">DanielPenfield<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\">CC BY-SA 4.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6c\/HastingsHighSchoolFrontEntranceLandscape.jpg"
+        },
+        "text":{
+            "headline":"Hasting High School",
+            "text":"Hastings High School in Westchester county had 133 students enrolled in the 2017 cohort. It can be classified as >80% White school district (19.5% BIPOC, 11.3% Black & Hispanic, 80.5% White). The district is in the 'Low Needs' Needs to Resource Category (6.8% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 0% English Language Learners, 14.3% students with disabilities, and 0% homeless. The graduation rate within 5 years for the 2017 cohort was 99% with 44% of students receiving an advanced regents. The dropout percentage was 1%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":41.1599718,
+            "line":true,
+            "lon":-73.860096,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/i.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"Ossining High School ",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Ossining_High_School.jpg\">Doug Kerr from Albany, New York, United States. Cropped and color-corrected slightly by Daniel Case prior to upload<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/2.0\">CC BY-SA 2.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6d\/Ossining_High_School.jpg"
+        },
+        "text":{
+            "headline":"Ossining High School ",
+            "text":"Ossining High School in Westchester county had 397 students enrolled in the 2017 cohort. It can be classified as Integrated school district (78.6% BIPOC, 72.8% Black & Hispanic, 21.4% White). The district is in the 'Average Needs' Needs to Resource Category (53.4% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 11.1% English Language Learners, 11.3% students with disabilities, and 1.3% homeless. The graduation rate within 5 years for the 2017 cohort was 90% with 1% of students receiving an advanced regents. The dropout percentage was 3%."
+        }
+    },
+    {
+        "date":"\"\"",
+        "location":{
+            "lat":40.9258549,
+            "line":true,
+            "lon":-73.815028,
+            "zoom":12,
+            "use_custom_marker":true,
+            "icon":"https:\/\/cdl-geneseo.github.io\/storymap-geneseo\/images\/pb.png",
+            "iconSize":"[30,30]"
+        },
+        "media":{
+            "caption":"Mount Vernon High School ",
+            "credit":"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Mount_Vernon_High_School_2021_jeh.jpg\">Jim.henderson<\/a>, <a href=\"https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\">CC BY-SA 4.0<\/a>, via Wikimedia Commons",
+            "url":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/31\/Mount_Vernon_High_School_2021_jeh.jpg"
+        },
+        "text":{
+            "headline":"Mount Vernon High School ",
+            "text":"Mount Vernon High School in Westchester county had 336 students enrolled in the 2017 cohort. It can be classified as >80% Black & Hispanic school district (96.7% BIPOC, 95.2% Black & Hispanic, 3.3% White). The district is in the 'Urban-Suburban High Needs' Needs to Resource Category (65.5% of the students in the 2017 cohort were identified as economically disadvantaged). Additional characteristics: 6.8% English Language Learners, 17.3% students with disabilities, and 10.7% homeless. The graduation rate within 5 years for the 2017 cohort was 73% with 9% of students receiving an advanced regents. The dropout percentage was 11%."
         }
     }
 ],
